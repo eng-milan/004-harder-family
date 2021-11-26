@@ -1,0 +1,53 @@
+body {
+    font-family: "Headland One", serif;
+}
+
+header {
+    background-color: #F3EBDD;
+}
+
+.header-text {
+    background-color: #006C84;
+}
+
+h1 {
+    color: #fff;
+}
+
+nav {
+    background-color: #006C84;
+}
+
+.nav-link, .navbar-menu {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #A99F3C;
+}
+
+.navbar-nav {
+    margin: auto;
+}
+
+main {
+    text-align: center;
+}
+
+.clinic-image {
+    width: 70vw;
+    border: 1rem solid #ffccbb;
+}
+
+footer {
+    background-color: #F3EBDD;
+    text-align: center;
+}
+footer a{
+    color: #000;
+    text-decoration: none;
+}
+footer a:hover{
+    color: #A99F3C;
+    text-decoration: none;
+}
